@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomersf
 - 👀 I’m interested in Developing & Programming
-- 🌱 I’m currently learning Javascript , Python, Solidity , Devops technologies
+- 🌱 I’m currently learning Go, Javascript (React & Node), C#, Python & DevOps technologies
 - 💞️ I’m looking to collaborate on Anything!
 - 📫 How to reach me , can contact me on https://www.linkedin.com/in/tomer-shafir-790351180/ or tomer1up@gmail.com
 
